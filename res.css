@@ -1,0 +1,17 @@
+@media only screen and (max-width:300px) {
+    
+
+    .box-light:hover {
+    height: 90%;
+}
+.box-light{
+    width: 95%;
+}
+.login span h2{
+    font-size: 17px;
+}
+.a a p{
+    font-size: 15px !important;
+    padding: 2px 2px  !important;
+}
+}
